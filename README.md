@@ -18,5 +18,5 @@ The topics that will be covered are:
 To use this material, follow the guide
 
 ```matlab
-open QPSKTransmitterAndReceiverSimulinkWorkshop.mlx
+open Scripts/QPSKTransmitterAndReceiverSimulinkWorkshop.mlx
 ```
